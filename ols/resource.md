@@ -22,6 +22,7 @@ Cellular automata are a special case, especially since they are often communicat
 * An attempt to perform a disallowed transaction may be met with graphical, textual, or aural feedback  
 * When a transaction occurs, text labels indicating the resource and quantity (via color, size, text content, etc) may appear for a time on screen (perhaps near the locations the transaction took place) or more permanently in a log, possibly along with aural feedback or animations  
 * Locations with spatial semantics may be communicated as appropriate for those semantics, with resources assigned individually or in groups to "physical" objects in those spaces. Common examples include "inventories" in adventure and especially role playing games. In any event the communication is somewhat deferred to the other logics which provide the spatial model; often this spatial view is not used in e.g. crafting systems of the same game, where aggregate counts are used instead  
+
 ## Interpretive affordances  
 * Gain/loss  
 * Growth (Physical, emotional, mental...)  
@@ -32,6 +33,7 @@ Cellular automata are a special case, especially since they are often communicat
 * Recovery  
 * Qualification ("you must be at least this tall")  
 * ?  
+
 ## Authorial affordances  
 * Numeric variables
 * multisets
@@ -40,11 +42,13 @@ Cellular automata are a special case, especially since they are often communicat
 * arrays
 * aggregators
 * ...  
+
 ## Ontological requirements  
 * Resource types  
 * Locations for resources  
   * And a way to enumerate and count resources in those locations, e.g. to map a Diablo inventory onto a crafting system  
   * And ways to remove and add resources from/to those locations, again with the example being inventory vs crafting  
+  
 ## Ontological provisions  
 * Resource transactions  
 * Resource quantities  
