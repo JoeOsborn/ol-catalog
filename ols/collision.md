@@ -1,6 +1,7 @@
 #Collision logics
 ##Abstract process
 Detection of overlaps between subsets of entities and/or regions of space and the automatic triggering of reactions when such overlaps occur.
+
 ##Abstract operations
 * (Alter/Check) which entities could be said to collide with which other entities or regions of space (e.g. collision layers or flags, or hurt vs hit boxes)
 * Check if two entities or regions are overlapping or touching
@@ -14,6 +15,7 @@ Detection of overlaps between subsets of entities and/or regions of space and th
 * Textual descriptors detailing the sizes or shapes of entities and whether they are touching or overlapping
 * The presence or absence of textual descriptors of entities when describing a region of space
 * Textual messages describing the event when objects begin/continue/cease to touch or overlap
+
 ##Interpretive affordances
 * Solidity (walls, barriers, shields, ...)
 * Harm (with appropriate character-state or resource logics)
@@ -22,12 +24,15 @@ Detection of overlaps between subsets of entities and/or regions of space and th
 * Connection (if multiple entities remain touching or overlapping while moving, or an entity simultaneously overlaps or touches two or more non-adjacent entities) Occlusion (requires/implies 3D space, even if trivial depth axis)
 * Constrained vision (e.g. in stealth games)
 * Selection (moving into a region to select an option, or moving a cursor) Targeting (with a crosshairs or reticle sprite)
+
 ##Authorial affordances
 * Geometric collision detection
 * Spatial data structures (broad/narrow phase)
 * ...
+
 ##Ontological requirements
 * Entities
+
 ##Ontological provisions 
 * Space
 * Regions of space
