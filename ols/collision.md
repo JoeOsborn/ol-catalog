@@ -9,6 +9,7 @@ Detection of overlaps between subsets of entities and/or regions of space and th
 * Enumerate the entities or regions overlapping or touching an entity or region Separate the positions of two or more entities or regions such that they touch but do not intersect
 * Determine how far an entity could move towards another entity or region without touching or causing an overlap
 * Whenever a combination of the above checks becomes true (or remains true, or becomes false), perform some abstract operation of this or another operational logic involving the objects considered in those checks
+
 ##Communicative strategies
 * Shapes or images for each entity or region of space, whose extents and appearance correspond to the extents of the corresponding entity, and whose positions on screen correspond to their positions in space
 * Sound effects or visual effects indicating collision when particular objects or re- gions of space begin/continue/cease to touch or overlap
