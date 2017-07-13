@@ -1,7 +1,8 @@
 * Action
-	* Smb1,3,World,(64?)
+	* Super Mario Bros. 1, 3, World, (64?)
 	* Bionic commando
 	* Castlevania 1,2
+    * Metal Gear Solid
 	* Zelda 1,2,(3?),(64?)
 * Rpg	
 	* DQ1,3,(4?)	
