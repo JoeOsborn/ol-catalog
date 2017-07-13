@@ -1,5 +1,5 @@
 ---
-Title: Resource logics 
+title: Resource logics 
 ---
 # Resource Logics
 

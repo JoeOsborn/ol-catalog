@@ -1,5 +1,5 @@
 ---
-Title: Progression logics 
+title: Progression logics 
 ---
 
 # Progression logics

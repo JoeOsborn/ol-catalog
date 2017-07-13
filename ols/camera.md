@@ -1,5 +1,5 @@
 ---
-Title: Camera logics 
+title: Camera logics 
 ---
 
 # Camera logics

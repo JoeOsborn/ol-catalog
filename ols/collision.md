@@ -1,5 +1,5 @@
 ---
-Title: Collision logics 
+title: Collision logics 
 ---
 
 # Collision logics

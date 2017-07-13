@@ -1,5 +1,5 @@
 ---
-Title: Character-state logics 
+title: Character-state logics 
 ---
 
 # Character-state logics

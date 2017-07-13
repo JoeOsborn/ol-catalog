@@ -1,5 +1,5 @@
 ---
-Title: Control logics 
+title: Control logics 
 ---
 
 # Control logics

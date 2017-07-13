@@ -1,5 +1,5 @@
 ---
-Title: Recombinatory logics 
+title: Recombinatory logics 
 ---
 
 # Recombinatory logics

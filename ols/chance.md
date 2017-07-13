@@ -1,5 +1,5 @@
 ---
-Title: Chance logics 
+title: Chance logics 
 ---
 
 # Chance logics

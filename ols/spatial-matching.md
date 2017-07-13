@@ -1,5 +1,5 @@
 ---
-Title: Spatial pattern matching logics 
+title: Spatial pattern matching logics 
 ---
 
 # Spatial pattern matching logics

@@ -1,5 +1,5 @@
 ---
-Title: Game Mode logics 
+title: Game Mode logics 
 ---
 
 # Game Mode logics

@@ -1,5 +1,5 @@
 ---
-Title: Physics logics 
+title: Physics logics 
 ---
 
 # Physics logics

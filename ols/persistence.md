@@ -1,5 +1,5 @@
 ---
-Title: Persistence logics 
+title: Persistence logics 
 ---
 
 # Persistence logics

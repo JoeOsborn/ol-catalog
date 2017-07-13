@@ -1,5 +1,5 @@
 ---
-Title: Selection logics 
+title: Selection logics 
 ---
 
 # Selection logics

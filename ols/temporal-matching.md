@@ -1,5 +1,5 @@
 ---
-Title: Temporal pattern matching logics 
+title: Temporal pattern matching logics 
 ---
 
 # Temporal pattern matching logics

@@ -1,5 +1,5 @@
 ---
-Title: Linking logics 
+title: Linking logics 
 ---
 
 # Linking logics
