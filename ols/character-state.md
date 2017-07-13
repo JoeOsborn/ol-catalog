@@ -2,39 +2,37 @@
 title: Character-state logics 
 ---
 
-# Character-state logics
-
-## Communicative role
+# Communicative role
 
 Game entities act in different ways or have different capabilities at different times, intrinsic to each such entity.
 
-## Abstract process
+# Abstract process
 
 Governing the finite, discrete states of a set of game characters or other entities. Updating states when necessary. Conditioning the operators of other logics on entities' discrete states.
 
-## Abstract operations
+# Abstract operations
 
 * (Alter/Check) the discrete state of an entity according to a given (fixed) transition system.
 * Whenever an entity's discrete state changes, perform some operators of this or another logic.
 * Synchronize state changes between several entities.
 
-## Presentation
+# Presentation
 
 * Change an entity's sprite, animation, or visual effects according to state.
 * Textual or icon labels/descriptors to indicate state.
 * Audio/visual/text effects on state change.
 
-## Required concepts
+# Required concepts
 
 * Entities
 * Condition predicates for making transitions
 
-## Provided concepts
+# Provided concepts
 
 * Entity states
 * State transitions and related events
 
-## Notes
+# Notes
 
 Note that an entity may be attached to several concurrent transition systems, and these must be composed somehow. In this document, we use "discrete state" to refer to an entity's overall, combined state, e.g. "jumping while ducking" or "poisoned, hasted, and confused". [Concurrent Hierarchical State Machines](http://chsm.sourceforge.net) provide one possible semantics.
 
